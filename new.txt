@@ -1,0 +1,4 @@
+name - Denisov Vladimir Sergeevich
+age - 20
+pets - 2
+desired Salary - 400$
